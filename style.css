@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@600&family=Nunito+Sans:opsz,wght@6..12,300;6..12,400&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*border:1px solid #ff0000;  */
+}
+
+html {
+  font-size: 62.5;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f8fafc;
+  font-family: 'Merienda', cursive; 
+}
+
+.align {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 3rem;
+}
+
+/* Website Code Start Here */
+
+.abouttext h2{
+  font-family: 'Merienda', cursive; 
+}
